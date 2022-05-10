@@ -3,7 +3,7 @@
 
 > React-Dashboard
 
-### Access the aplication on your browser: (https://react-portfolio-psi-lilac.vercel.app/)
+### Access the aplication on your browser: (https://react-dashboard-xi.vercel.app/)
 
 ## 💻 How it works
 
